@@ -1,0 +1,16 @@
+{
+  "dataset_rows": 105216,
+  "model_rows": 104544,
+  "train_rows": 83635,
+  "test_rows": 20909,
+  "reliability_windows": 194,
+  "high_demand_threshold_mw": 65389.2,
+  "low_renewable_threshold_pct": 26.480223001949728,
+  "excluded_synthetic_forecast_columns": [
+    "load_forecast_MW",
+    "solar_forecast_MW",
+    "wind_onshore_forecast_MW",
+    "wind_offshore_forecast_MW",
+    "load_forecast_error_MW"
+  ]
+}

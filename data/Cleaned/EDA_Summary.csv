@@ -1,0 +1,14 @@
+Metric,Value
+Number of observations,105216
+Number of variables,17
+Study period start,2022-12-31 23:00:00+00:00
+Study period end,2025-12-31 22:45:00+00:00
+Average load (MW),52832.352723920325
+Maximum load (MW),75965.7
+90th percentile load (MW),65389.2
+Average renewable coverage (%),47.002071021674666
+Minimum renewable coverage (%),3.006246629
+Maximum renewable coverage (%),125.746089
+Average renewable-demand gap (MW),28009.222409139293
+Number of peak observations,10521
+Number of reliability-window observations,3132
